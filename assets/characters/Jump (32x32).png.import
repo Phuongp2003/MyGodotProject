@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ceusf241lvukt"
-path="res://.godot/imported/Jump (32x32).png-f4506b5b1b512ea3b2aee5cb4387c9f6.ctex"
+path="res://.godot/imported/Jump (32x32).png-942e4c001a019cee50f727f942f78d7a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/characters/Jump (32x32).png"
-dest_files=["res://.godot/imported/Jump (32x32).png-f4506b5b1b512ea3b2aee5cb4387c9f6.ctex"]
+source_file="res://Assets/characters/Jump (32x32).png"
+dest_files=["res://.godot/imported/Jump (32x32).png-942e4c001a019cee50f727f942f78d7a.ctex"]
 
 [params]
 

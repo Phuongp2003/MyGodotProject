@@ -1,10 +1,14 @@
 extends TileMap
 
+
+# Called when the node enters the scene tree for the first time.
 func _ready():
-	# Disable the BossRoom initially
-	set_visible(false)
-	set_physics_process(false)
-	set_layer_enabled(0, false)
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	pass
 
 # Function to activate the BossRoom
 func activate_boss_room():

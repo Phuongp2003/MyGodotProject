@@ -1,7 +1,8 @@
 extends TileMap
 
+
+# Called when the node enters the scene tree for the first time.
 func _ready():
-	# Disable the BossRoom initially
 	set_visible(false)
 	set_physics_process(false)
 	set_layer_enabled(0, false)
